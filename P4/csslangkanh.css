@@ -1,0 +1,60 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: pink;
+    background: green;
+}
+
+p {
+    text-indent: 2cm;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 20px;
+    background-color: blue;
+    text-align: right;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+    background-color: aqua;
+}
+
+h3 {
+    text-align: right;
+    color: lightblue;
+}
+
+div {
+    border: 2px solid green;
+    border-width: bold;
+    width: 100%;
+    background-color: red;
+    color: yellow;
+}
+
+a:link {
+    color: rgb(0, 0, 0);
+}
+
+a:visited {
+    color: rgb(153, 0, 153);
+}
+
+a:active {
+    color: rgb(255, 0, 102);
+}
+
+a:hover {
+    color: rgb(249, 240, 116);
+}
+
+.coba1 {
+    background-color: yellow;
+}
+
+#coba2 {
+    text-align: center;
+}
